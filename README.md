@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌍  I'm based in Raleigh, NC<br>✉️  You can contact me at rwjadhikari@gmail.com<br>🧠  I'm learning C++ and Data Structures<br>🤝  I'm open to collaborating on any interesting projects<br>⚡  I am also actively looking for internship opportunities!</p>
+<p align="left">🌍  I'm based in Raleigh, NC<br>✉️  You can contact me at link<rwjadhikari@gmail.com><br>🧠  I'm learning C++ and Data Structures<br>🤝  I'm open to collaborating on any interesting projects<br>⚡  I am also actively looking for internship opportunities!</p>
 
 ###
 
