@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Junior @ NC State</p>
+<p align="left">Senior @ NC State</p>
 
 ###
 
